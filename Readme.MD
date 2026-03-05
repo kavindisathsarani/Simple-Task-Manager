@@ -11,7 +11,7 @@ A. Frontend (User Interface)
 • Add Task Form with validation (title required). 
 • Edit task functionality. 
 • Delete tasks. 
-• Mark task as Completed / Pending. 
+• Mark task as Completed / Pendings. 
 B. Backend (API) 
 Build a RESTful API using Node.js + Express. 
 • GET /tasks - Get all tasks 
